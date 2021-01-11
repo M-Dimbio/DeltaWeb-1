@@ -4,6 +4,7 @@
   min-height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
 }
 
 .icon-folder-card {
@@ -15,6 +16,6 @@
   border: none;
 }
 
-.icons{
+.icons {
   margin: auto;
 }
